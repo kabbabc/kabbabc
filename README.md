@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kabbabc 
-- 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning html, css and java pls help
+- 👀 I’m onto my path in becoming a software developer
+- 🌱 I’m readily learning html, css, sql, javascript,  react, node.js, python and cloud.
 - 💞️ I’m looking to collaborate on "im not sure what to put here"
-- 📫 How to reach me insta < segelege7, discord, caleb419
+- 📫 How to reach me insta calebcity47, discord, caleb419
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm wanting to learn
+- ⚡ Fun fact: I'm a really cool guy
 
 <!---
 kabbabc/kabbabc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

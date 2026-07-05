@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kabbabc 
-- 👀 I’m onto my path in becoming a software developer
-- 🌱 I’m readily learning html, css, sql, javascript,  react, node.js, python and cloud.
-- 💞️ I’m looking to collaborate on "im not sure what to put here"
-- 📫 How to reach me insta calebcity47, discord, caleb419
+- 👋 Hi, I’m @Caleb
+- 👀 I’ve Just begun my journey as a software developer.
+- 🌱 I have skills in html, css, bootstrap css, javascript, jquery, PHP, react.js, mysql.
+- 💞️ I’m looking to collaborate on any form of web based projects.
+- 📫 How to reach me insta: calebcity47, discord: caleb419.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm a really cool guy
 

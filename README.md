@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Caleb
-- 👀 I’ve Just begun my journey as a software developer.
-- 🌱 I have skills in html, css, bootstrap css, javascript, jquery, PHP, react.js, mysql.
-- 💞️ I’m looking to collaborate on any form of web based projects.
-- 📫 How to reach me insta: calebcity47, discord: caleb419.
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm a really cool guy
+- 👋 Hi, I’m Caleb
+- 👀 Hi, I'm Caleb, a Full Stack Software Developer passionate about building scalable, human-centered web applications..
+- 🌱 I have skills in html, css, bootstrap, javascript, jquery, PHP, react.js, mysql, laravel.
+- 💼 I'm open to collaborating on web-based projects and exploring full-time, part-time, freelance, and remote software development opportunities.
+- 📫 emal: oluseguncaleb6@gmail.com.
+- 😄 Pronouns: He/Him
 
 <!---
 kabbabc/kabbabc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
